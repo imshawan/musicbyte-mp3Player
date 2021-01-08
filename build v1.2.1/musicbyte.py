@@ -1,7 +1,6 @@
 # MusicByte Music Player, Designed and completely developed by Shawan Mandal
 
 
-import smtplib
 import platform
 import iconsbase64
 from tkinter import *
