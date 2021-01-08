@@ -1,0 +1,4 @@
+Pillow==8.0.1
+mutagen==1.45.1
+audio-metadata==0.11.1
+eyed3==0.9.6
