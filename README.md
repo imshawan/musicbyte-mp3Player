@@ -1,4 +1,4 @@
-[![MusicByte: Build Successful](https://img.shields.io/badge/MusicByte-Build%20Successful-green&link=https://github.com/imshawan/musicbyte-mp3Player)](https://github.com/imshawan/musicbyte-mp3Player)
+[![MusicByte: Build Successful](https://img.shields.io/badge/MusicByte-Build%20Successful-green)](https://github.com/imshawan/musicbyte-mp3Player)
 
 # Musicbyte - Music Player
 
