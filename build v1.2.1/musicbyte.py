@@ -1,11 +1,17 @@
-# MusicByte Music Player, Designed and completely developed by Shawan Mandal
+''' MusicByte Music Player
+    Designed and developed by Shawan Mandal
+
+    MIT License, see LICENSE for more details.
+
+    Copyright (c) 2021 Shawan Mandal
+'''
 
 
 import platform
 import iconsbase64
 from tkinter import *
 import tkinter as tk
-import pygame
+import pygame, tkinter
 from PIL import ImageTk
 import base64, os, socket
 import audio_metadata, time
