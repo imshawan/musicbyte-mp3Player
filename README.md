@@ -1,3 +1,5 @@
+[![MusicByte: Build Successful](https://img.shields.io/badge/MusicByte-Build%20Successful-green)]
+
 # Musicbyte - Music Player
 
 MusicByte is a Stylish, Powerful and  Fast Music Player  with  elegant design. 
