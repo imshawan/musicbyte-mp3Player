@@ -30,5 +30,4 @@ bug-reports and suggestions about MusicByte to <a href="mailto:imshawan.dev049@g
 
 # Screenshots
 
-![Code Size: 135](https://github.com/imshawan/musicbyte-mp3Player/blob/main/build%20v1.2.1/screenshots/initial.JPG?raw=true)
 <img src="build v1.2.1/screenshots/initial.JPG" width=400 align=left> <img src="build v1.2.1/screenshots/maximized.JPG" width=400 align=right>
