@@ -802,7 +802,7 @@ progressBar1.pack()
 
 
 #CONTROLS
-controlFrame1 = Frame(controlFRAME, height=48, width=135)
+controlFrame1 = Frame(controlFRAME, height=48, width=140)
 controlFrame1.place(x=200,y=33)
 
 icon1 = geticons(PLAY)
