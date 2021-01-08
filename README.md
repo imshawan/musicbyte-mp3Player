@@ -19,5 +19,11 @@ artists , songs and folder.
 - Add Songs via Folder or you can select single audio files
 - Remove songs, (current or all songs)
 
+## Requirements
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the modules from requirements.txt
+```bash
+pip install -r /path/to/requirements.txt
+```
+
 MusicByte player is a Music Player for Windows. Send me your feedbacks,
 bug-reports and suggestions about MusicByte to <a href="mailto:imshawan.dev049@gmail.com">imshawan.dev049@gmail.com</a>
