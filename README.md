@@ -27,7 +27,3 @@ pip install -r /path/to/requirements.txt
 
 MusicByte player is a Music Player for Windows. Send me your feedbacks,
 bug-reports and suggestions about MusicByte to <a href="mailto:imshawan.dev049@gmail.com">imshawan.dev049@gmail.com</a>
-
-# Screenshots
-
-<img src="build v1.2.1/screenshots/initial.JPG" width=400 align=left> <img src="build v1.2.1/screenshots/maximized.JPG" width=400 align=right>
