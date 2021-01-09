@@ -24,6 +24,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the mod
 ```bash
 pip install -r /path/to/requirements.txt
 ```
+#### Install both the fonts present inside the "Font" folder for an overall better look
+
+* AdobeClean-Bold.ttf
+* AdobeClean-Regular.ttf
 
 MusicByte player is a Music Player for Windows. Send me your feedbacks,
 bug-reports and suggestions about MusicByte to <a href="mailto:imshawan.dev049@gmail.com">imshawan.dev049@gmail.com</a>
