@@ -1,2 +1,2 @@
-<img src="initial.JPG" height=400>
-<img src="maximize.JPG" height=400>
+<img src="initial.JPG" width=400>
+<img src="maximized.JPG" width=400>
