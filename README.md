@@ -30,4 +30,4 @@ pip install -r /path/to/requirements.txt
 * AdobeClean-Regular.ttf
 
 MusicByte player is a Music Player for Windows. Send me your feedbacks,
-bug-reports and suggestions about MusicByte to <a href="mailto:imshawan.dev049@gmail.com">imshawan.dev049@gmail.com</a>
+bug-reports and suggestions about MusicByte to <a href="mailto:hello@imshawan.dev">hello@imshawan.dev</a>
